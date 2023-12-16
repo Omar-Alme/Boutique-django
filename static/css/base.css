@@ -56,6 +56,10 @@ body {
   border: 1px solid black !important;
 }
 
+.bg-black {
+  background: #000 !important;
+}
+
 /* ------------------------------------------ MEDIA QUERIES */
 /* slightly larger container on xl screens */
 @media (min-width: 1200px) {
